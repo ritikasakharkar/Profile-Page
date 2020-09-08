@@ -88,10 +88,10 @@ export default class RESUME extends Component {
     <Text style={styles.horizontal}>_____________________</Text>
       <hr></hr>
       <Text style={styles.text1}>Email:</Text>
-      <Text style={styles.text2}>ritikasakharkar@gmail.com
+      <Text style={styles.text2}>ritikarkar@gmail.com
 </Text>
       <Text style={styles.text1}>Mobile No.:</Text>
-      <Text style={styles.text2}>9011191512</Text>
+      <Text style={styles.text2}>90111</Text>
       <Text style={styles.text1}>Address:</Text>
       <Text style={styles.text2}>Chennai, India</Text>
       <hr></hr>
@@ -148,11 +148,11 @@ export default class RESUME extends Component {
       <Text style={styles.text1}>Expected to Graduate in 2022</Text>
       <hr></hr>
       <Text style={styles.text1}>Higher Secondary CBSE</Text>
-      <Text style={styles.text1}>Kendriya Vidyalaya Ajni,Nagpur</Text>
+      <Text style={styles.text1}>Kendriya Vidyalaya Ajni</Text>
       <Text style={styles.text1}>2008-2017</Text>
       <hr></hr>
       <Text style={styles.text1}>Senior Secondary CBSE</Text>
-      <Text style={styles.text1}>Kendriya Vidyalaya Ajni, Nagpur</Text>
+      <Text style={styles.text1}>Kendriya Vidyalaya Ajni</Text>
       <Text style={styles.text1}>2008-2017</Text>
       <hr></hr>
 
